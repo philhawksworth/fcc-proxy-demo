@@ -11,4 +11,4 @@ You can find a detailed explanation of this along with links to a video demo in 
 
 Click this button and follow the instructions to try this out for yourself. Most likely, in less than a miunute.
 
-👉 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/proxy&utm_source=github&utm_medium=proxy-demo-pnh&utm_campaign=devex)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/proxy&utm_source=github&utm_medium=proxy-demo-pnh&utm_campaign=devex)
